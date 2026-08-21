@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Mahi Chouhan 👋
 
-<!--
-**mahichouhan18/mahichouhan18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Cloud Support Engineer | AWS | Linux | Docker | Jenkins
 
-Here are some ideas to get you started:
+BCA final-year student building hands-on experience in Cloud Support, Linux Administration, Docker, CI/CD, and AWS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+- AWS — EC2, S3, IAM, VPC
+- Linux Administration
+- Docker
+- Jenkins & CI/CD
+- Git & GitHub
+- Kubernetes
+
+## 🚀 Projects
+
+### Jenkins + Docker CI/CD Pipeline
+Automated Docker image build and container deployment using Jenkins Pipeline.
+
+### Linux Administration & Docker Deployment
+Linux user/group management, file permissions, Nginx service management, and Docker-based web deployment.
+
+## 🎯 Currently Learning
+
+- AWS Cloud Support
+- Linux Administration
+- Docker & Kubernetes
+- CI/CD Automation
+
+## 📫 Connect With Me
+
+GitHub: https://github.com/mahichouhan18
